@@ -1,0 +1,6 @@
+{
+  "name": "Bottle Range",
+  "description": "Tactical first-person shooting range simulation featuring dynamic swinging bottle physics, dynamic weather systems, weapon wheel selection, and true FPP ballistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
